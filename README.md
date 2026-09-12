@@ -28,7 +28,7 @@ Rode o rastreio:
 python rastreio_cor.py
 ```
 
-A janela do OpenCV abre a webcam e a tecla `q` encerra a execução. Por padrão o rastreio está calibrado para a cor azul. Para rastrear outra cor, basta ajustar no código os limites da faixa HSV correspondente e usar a máscara daquela cor na etapa de detecção de contornos.
+A janela do OpenCV abre a webcam e a tecla ESC encerra a execução. Por padrão o rastreio está calibrado para a cor azul. Para rastrear outra cor, basta ajustar no código os limites da faixa HSV correspondente e usar a máscara daquela cor na etapa de detecção de contornos.
 
 ## Estrutura do projeto
 
