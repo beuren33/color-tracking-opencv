@@ -12,7 +12,7 @@ Vale citar a escolha da estrutura que guarda os pontos do rastro. Foi usada uma 
 
 ## Técnicas usadas
 
-O projeto reúne várias operações clássicas de visão computacional num fluxo só: conversão de espaço de cor para HSV, segmentação por faixa de cor com máscara, operações morfológicas de erosão e dilatação para limpar ruído, detecção de contornos e seleção do contorno de maior área. Não há modelo de machine learning aqui, o reconhecimento é feito inteiramente por processamento de imagem, o que torna o programa leve e capaz de rodar em tempo real sem precisar de treino.
+O projeto reúne várias operações clássicas de visão computacional em um fluxo só: conversão de espaço de cor para HSV, segmentação por faixa de cor com máscara, operações morfológicas de erosão e dilatação para limpar ruído, detecção de contornos e seleção do contorno de maior área. Não há modelo de machine learning aqui, o reconhecimento é feito inteiramente por processamento de imagem, o que torna o programa leve e capaz de rodar em tempo real sem precisar de treino.
 
 ## Como rodar
 
