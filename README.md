@@ -33,7 +33,7 @@ A janela do OpenCV abre a webcam e a tecla ESC encerra a execução. Por padrão
 ## Estrutura do projeto
 
 ```
-rastreio-cor-opencv/
+color-tracking-opencv/
 ├── rastreio_cor.py     # rastreamento por cor em tempo real
 ├── requirements.txt
 └── .gitignore
